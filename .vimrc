@@ -13,4 +13,7 @@ set shiftwidth=4
 set smarttab
 set tabstop=4
 
+" Search Settings
+set hlsearch
+set smartcase
 
